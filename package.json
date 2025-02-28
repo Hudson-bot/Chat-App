@@ -23,6 +23,7 @@
     "socket.io": "^4.8.1"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
     "nodemon": "^3.1.9"
   }
 }
