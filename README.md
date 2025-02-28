@@ -35,21 +35,18 @@ This is a real-time chat application that enables users to communicate instantly
 **Installation**
 
 Prerequisites
-
-    Make sure you have the following installed:
-
-    Node.js
-
-    MongoDB
+1.  Make sure you have the following installed:
+2.  Node.js
+3.  MongoDB
 
 **Steps to Run Locally**
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/yourusername/chat-app.git
 cd chat-app
 
-Install dependencies for both frontend and backend:
+2. Install dependencies for both frontend and backend:
 
 cd backend
 npm install
@@ -64,12 +61,12 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 CLIENT_URL=http://localhost:3000
 
-Start the backend server:
+3. Start the backend server:
 
 cd backend
 npm start
 
-Start the frontend:
+4. Start the frontend:
 
 cd frontend
 npm start
@@ -78,24 +75,19 @@ Open the app in your browser at http://localhost:3000.
 
 **Deployment**
 
-Frontend: Deploy on Netlify/Vercel
+1. Frontend: Deploy on Render
 
-Backend: Deploy on Heroku/Render
+2. Backend: Deploy on Render
 
-Database: Use MongoDB Atlas for cloud storage
+3. Database: Use MongoDB Atlas for cloud storage
 
-Contributing
+**Contributing** 
 
 Pull requests are welcome! Please follow these steps:
-
 Fork the repository
-
 Create a new branch (git checkout -b feature-branch)
-
 Commit your changes (git commit -m 'Add feature')
-
 Push to the branch (git push origin feature-branch)
-
 Open a pull request
 
 **Contact**
