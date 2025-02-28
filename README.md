@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 
 This is a real-time chat application that enables users to communicate instantly with each other. The app supports one-on-one and group messaging with real-time updates.
 
