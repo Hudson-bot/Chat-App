@@ -2,47 +2,47 @@
 
 This is a real-time chat application that enables users to communicate instantly with each other. The app supports one-on-one and group messaging with real-time updates.
 
-Features
+**Features**
 
-User authentication (Signup/Login)
+1. User authentication (Signup/Login)
 
-Real-time messaging
+2. Real-time messaging
 
-One-on-one chat and group chat
+3. One-on-one chat and group chat
 
-Online/offline user status
+4. Online/offline user status
 
-Typing indicators
+5. Typing indicators
 
-Message notifications
+6. Message notifications
 
-Responsive design for mobile and desktop
+7. Responsive design for mobile and desktop
 
-Technologies Used
+**Technologies Used**
 
-Frontend: React.js, Redux, Tailwind CSS
+1. Frontend: React.js, Redux, Tailwind CSS
 
-Backend: Node.js, Express.js
+2. Backend: Node.js, Express.js
 
-Database: MongoDB
+3. Database: MongoDB
 
-Real-time Communication: Socket.io
+4. Real-time Communication: Socket.io
 
-Authentication: JWT (JSON Web Tokens)
+5. Authentication: JWT (JSON Web Tokens)
 
-Hosting: Vercel/Netlify (Frontend), Heroku/Render (Backend)
+6. Hosting: Render 
 
-Installation
+**Installation**
 
 Prerequisites
 
-Make sure you have the following installed:
+    Make sure you have the following installed:
 
-Node.js
+    Node.js
 
-MongoDB
+    MongoDB
 
-Steps to Run Locally
+**Steps to Run Locally**
 
 Clone the repository:
 
@@ -76,7 +76,7 @@ npm start
 
 Open the app in your browser at http://localhost:3000.
 
-Deployment
+**Deployment**
 
 Frontend: Deploy on Netlify/Vercel
 
@@ -98,9 +98,7 @@ Push to the branch (git push origin feature-branch)
 
 Open a pull request
 
-
-Contact
-
+**Contact**
 For any questions or suggestions, feel free to reach out:
 
 Email: gauravpanigrahy1421@gmail.com
