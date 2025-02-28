@@ -95,5 +95,5 @@ For any questions or suggestions, feel free to reach out:
 
 Email: gauravpanigrahy1421@gmail.com
 
-GitHub: Hudon-Bot
+GitHub: Hudon-bot
 
